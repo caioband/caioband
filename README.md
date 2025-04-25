@@ -40,11 +40,9 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=caioband&theme=tokyonight)
 ---
 
-## 📫 Como me encontrar
+## 📫 Contato
 
-- ✉️ Email: caioobsantos@gmail.com
-- 🌐 Website: (em breve)
-
----
+[![Discord Badge](https://img.shields.io/badge/Discord-Caio%231234-7289DA?style=for-the-badge&logo=discord)](https://discordapp.com/users/1215157173156446269)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5521982316922)
 
 ⭐️ Obrigado por visitar meu perfil! 🚀
