@@ -30,19 +30,19 @@
 ## 📈 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caioband&show_icons=true&theme=github-dark" width="49%" alt="Estatísticas de Caio Bandeira" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioband&layout=compact&theme=github-dark" width="49%" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caioband&show_icons=true&theme=dracula" width="49%" alt="Estatísticas de Caio Bandeira" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioband&layout=compact&theme=dracula" width="49%" alt="Linguagens mais usadas" />
 </div>
 
 ## 🔥 Dias de contribuição (Streak)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caioband&theme=github-dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caioband&theme=dracula" alt="GitHub Streak"/>
 </p>
 
 ## 📊 Atividade recente no GitHub
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=caioband&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=caioband&theme=dracula)
 ---
 
 ## 📫 Contato
