@@ -27,12 +27,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="Caio's stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight" width="49%" alt="Estatísticas de Caio Bandeira" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" width="49%" alt="Linguagens mais usadas" />
+</div>
 
 ---
 
@@ -43,4 +43,4 @@
 
 ---
 
-⭐️ Obrigado por visitar meu perfil! Vamos construir coisas incríveis! 🚀
+⭐️ Obrigado por visitar meu perfil! 🚀
