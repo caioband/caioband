@@ -30,8 +30,8 @@
 ## 📈 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight" width="49%" alt="Estatísticas de Caio Bandeira" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" width="49%" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caioband&show_icons=true&theme=tokyonight" width="49%" alt="Estatísticas de Caio Bandeira" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioband&layout=compact&theme=tokyonight" width="49%" alt="Linguagens mais usadas" />
 </div>
 
 ---
