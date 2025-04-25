@@ -34,6 +34,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioband&layout=compact&theme=tokyonight" width="49%" alt="Linguagens mais usadas" />
 </div>
 
+
+## 📊 Atividade recente no GitHub
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=caioband&theme=tokyonight)
 ---
 
 ## 📫 Como me encontrar
