@@ -8,7 +8,7 @@
 
 - 🎓 Estudante de Ciência da Computação
 - 👨‍💻 Programando desde os 15 anos
-- 🛡️ Interessado em Segurança da Informação e Inteligência Artificial
+- 🛡️ Interessado em Solucionar problemas!
 - 🎮 Desenvolvedor de Jogos e Bots
 - 🌎 Sempre aprendendo novas tecnologias
 
